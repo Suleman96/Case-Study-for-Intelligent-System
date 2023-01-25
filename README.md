@@ -8,3 +8,4 @@ Each Model has its own requirement.txt file
 build env for each model and run the following code in the enviornment terminal
 pip install -r requirements.txt
 
+https://drive.google.com/drive/folders/1xXQdsc_xyUk7a5edFSoqUwrCYdJdkXgi?usp=share_link
