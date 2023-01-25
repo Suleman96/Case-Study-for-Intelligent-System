@@ -1,0 +1,15 @@
+path: ../data
+
+train: ./train/images
+val: ./val/images
+# test: ../test/images
+
+nc: 3
+names: ['Legal-Docs', 'licence', 'person']
+
+roboflow:
+  workspace: project
+  project: intelligent-system-bk92m
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/intelligent-system-bk92m/dataset/1
