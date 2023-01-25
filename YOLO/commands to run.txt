@@ -1,0 +1,4 @@
+python train.py --workers 1 --device 0 --batch-size 4 --epochs 100 --img 640 640 --data data/gdpr_data.yaml --hyp data/hyp.scratch.gdpr.yaml --cfg cfg/training/yolov7-gdpr.yaml --name yolov7-gdpr --weights yolov7.pt
+
+python detect.py --weights yolov7_detection.pt --conf 0.5 --img-size 640 --source 1.jpg --view-img --no-trace
+
