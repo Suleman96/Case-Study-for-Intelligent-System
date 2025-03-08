@@ -1,4 +1,4 @@
-# AI for Privacy
+# AI-Driven Adjustment of Public Images and Videos for Compliance to General Data Protection Regulation (GDPR)
 ## Case-Study-for-Intelligent-System
 Contains all ML Model and App developed during our Case Study 
 
